@@ -34,7 +34,7 @@ A receiver and transmitter node was developed in this project. For communication
 <hr>
 <h1 id="hardwere">2. Harwere used </h1>
 
-<ul>Arduino Uno</ul>
+<ul>Arduino Uno <img src="img/arduino.jpg"></ul>
 <ul>Methane sensor (MQ4)</ul>
 <ul>Temperature and Humidity sensor(HTU21D)</ul>
 <ul>low Level triggered Alarm buzzer</ul>
