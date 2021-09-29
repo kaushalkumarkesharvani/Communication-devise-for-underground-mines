@@ -38,7 +38,7 @@ A receiver and transmitter node was developed in this project. For communication
 <h3>Methane sensor (MQ4)<br><img src="img/Methane.jpg"></h3>
 <h3>Temperature and Humidity sensor(HTU21D)<br><img src="img/temp.jpg"></h3>
 <h3>low Level triggered Alarm buzzer<br><img src="img/alarm.jpg"></h3>
-
+<!--
 <img src="img/preprocess.png">
 
 After pre-processing we split the data into train and validation set in the ratio 7:3. The number
@@ -87,3 +87,4 @@ HSI: Hyperspectral Image<br>
 <p>[2]<a href="https://arxiv.org/abs/1902.06701">HybridSN: Exploring 3-D–2-D CNN Feature
 Hierarchy for Hyperspectral Image Classification</a></p>
 
+-->
