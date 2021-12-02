@@ -6,7 +6,7 @@ A receiver and transmitter node was developed in this project. For communication
 <a href="#obj" >1. Objective</a><br>
 <a href="#hardwere" >2. Harwere used </a><br>
 
-<a href="#IDE" >3.Softwere used</a><br>
+<a href="#IDE" >3. Softwere used</a><br>
 <a href="#app" >4. project completion stages </a><br>
 <a href="https://www.youtube.com/playlist?list=PLTU-KZj25vzZpi-RO7IZvw7ut81v-YkUq" >5. Youtube Demo</a><br>
 <hr>
@@ -35,10 +35,15 @@ A receiver and transmitter node was developed in this project. For communication
 <hr>
 <h1 id="hardwere">2. Harwere used </h1>
 <br>
-<h3>Arduino Uno <br><img src="img/arduino.jpg"></h3>
-<h3>Methane sensor (MQ4)<br><img src="img/Methane.jpg"></h3>
+<h3>Arduino Uno </h3><p>Arduino Uno is a microcontroller board based on the ATmega328P . It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller.
+  </p><br><br><img src="img/arduino.jpg" width="250" height="200">
+<h3>Methane sensor (MQ4)</h3>
+<p>This methane gas sensor detects the concentration of methane gas in the air and ouputs its reading as an analog voltage. The concentration sensing range of 300 ppm to 10,000 ppm is suitable for leak detection. For example, the sensor could detect if someone left a gas stove on but not lit. The sensor can operate at temperatures from -10 to 50°C and consumes less than 150 mA at 5 V.</p>
+<br><img src="img/Methane.jpg">
+<br>
 <h3>Temperature and Humidity sensor(HTU21D)<br><img src="img/temp.jpg"></h3>
-<h3>low Level triggered Alarm buzzer<br><img src="img/alarm.jpg"></h3>
+<br>
+<h3>low Level triggered Alarm buzzer<br><img src="img/alarm.jpg" width="250" height="200"></h3>
 <!--
 <img src="img/preprocess.png">
 
