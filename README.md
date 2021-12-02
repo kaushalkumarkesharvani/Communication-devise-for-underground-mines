@@ -1,14 +1,13 @@
-# Communication-devise-for-underground-mines
+# Communication-device-for-underground-mines
 A receiver and transmitter node was developed in this project. For communication in underground mines, we have used the Lora communication protocol. The transmitter nodes also show data of gases in the working area of underground mines.
 
 
 <h1>Content:</h1>
 <a href="#obj" >1. Objective</a><br>
-<a href="#hardwere" >2. Harwere used </a><br>
+<a href="#hardware" >2. Hardware used </a><br>
 
-<a href="#IDE" >3. Softwere used</a><br>
-<a href="#app" >4. project completion stages </a><br>
-<a href="https://www.youtube.com/playlist?list=PLTU-KZj25vzZpi-RO7IZvw7ut81v-YkUq" >5. Youtube Demo</a><br>
+<a href="#app" >3. Project completion stages </a><br>
+<a href="https://www.youtube.com/playlist?list=PLTU-KZj25vzZpi-RO7IZvw7ut81v-YkUq" >4. Youtube Demo</a><br>
 <hr>
 <h1 id="obj">1. Objective:</h1>
   <p>The underground mining environments across the world
@@ -33,7 +32,7 @@ A receiver and transmitter node was developed in this project. For communication
       we have integrated A gas sensor, alarm system, temperature and humidity sensor to sense mining enviroment and if required it will alarm to miners.</p><br>
  
 <hr>
-<h1 id="hardwere">2. Harwere used </h1>
+<h1 id="hardware">2. Hardware used </h1>
 <br>
 <h3>Arduino Uno </h3><p>Arduino Uno is a microcontroller board based on the ATmega328P . It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, an ICSP header and a reset button. It contains everything needed to support the microcontroller.
   </p><br><br><img src="img/arduino.jpg" width="250" height="200">
@@ -44,6 +43,13 @@ A receiver and transmitter node was developed in this project. For communication
 <h3>Temperature and Humidity sensor(HTU21D)<br><img src="img/temp.jpg"></h3>
 <br>
 <h3>low Level triggered Alarm buzzer<br><img src="img/alarm.jpg" width="250" height="200"></h3>
+
+<h1 id="app">4. Project completion stages:</h1>
+
+<p>For practical implementation  I have made two nodes for communication , one is transmitter and other one is receiver node.</p>
+<h3>Transmitting Node</h3>
+<h3>Reciever Node</h3>
+
 <!--
 <img src="img/preprocess.png">
 
