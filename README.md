@@ -7,7 +7,8 @@ A receiver and transmitter node was developed in this project. For communication
 <a href="#hardware" >2. Hardware used </a><br>
 
 <a href="#app" >3. Project completion stages </a><br>
-<a href="#ref" >4. Reference </a><br>
+<a href="#res" >4. Result </a><br>
+<a href="#ref" >5. Reference </a><br>
 <a href="https://www.youtube.com/playlist?list=PLTU-KZj25vzZpi-RO7IZvw7ut81v-YkUq" >5. Youtube Demo</a><br>
 <hr>
 <h1 id="obj">1. Objective:</h1>
@@ -54,8 +55,9 @@ A receiver and transmitter node was developed in this project. For communication
 <br>
 <h3>Reciever Node</h3>
 <img src="img/Arduino_lora.jpeg" width="250" height="200">
-
-<h1 id="ref">4. Reference:</h1>
+<h1 id="res">4. Result:</h1>
+<img src="img/temp_caution.jpeg" width="400" height="500">
+<h1 id="ref">5. Reference:</h1>
 
 <p>[1]<a href="https://www.semtech.com/lora/">Basic of lora communication docmentend by semtech inc.</a></p>
 <p>[2]<a href="https://ieeexplore.ieee.org/document/9067213">A LoRa Relay Based System for Detonating Explosives in Underground Mines</a></p>
